@@ -19,11 +19,8 @@ This project is a classic implementation of the Snake and Apple Game, developed 
 
 **Getting Started:**
   1) ### Clone Repository:
-         Clone the repository to your local machine:
-         ```bash
           https://github.com/balananujith/Snake-n-apple.git
   2) ### Navigate to the project directory:
-          ```bash
           cd Snake-n-apple
   3) Now write in terminal **python game.py**
   4) And then a localhost link would appear click on that link.
