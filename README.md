@@ -1,5 +1,5 @@
 <p align="center">
-  <b><font size="7"># Snake-n-apple game</font></b>
+  <b><font size="20"> Snake-n-apple game</font></b>
 </p>
 This project is a classic implementation of the Snake and Apple Game, developed using Python for the backend logic and HTML, CSS and javascript for the frontend user interface. The game utilizes javascript for handling various functionalities and interactions.
 
