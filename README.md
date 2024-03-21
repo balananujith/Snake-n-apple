@@ -7,7 +7,8 @@ This project is a classic implementation of the Snake and Apple Game, developed 
   3) **Score Tracking:** Keep track of the score as the snake eats apples.
   4) **Game Over Detection:** Detect when the snake collides with itself or the boundaries of the game board.
   5) **Responsive Design:** The game interface adjusts to different screen sizes for optimal user experience.
-
+  6) **Level Adjustment:** The game also has a buttons which could could adjust the speed of the game according to the       
+                           levels like for beginner it would be slow, & for intermediate it would be fast but not that much                             fast compared to advanced, & for advanced it would be fastest  
 **Technologies Used:**
   1) **Backend:** Python
   2) **Frontend:** HTML,CSS,Javascript
