@@ -1,5 +1,6 @@
-# Snake-n-apple game
-
+<p align="center">
+  <b># Snake-n-apple game</b>
+</p>
 This project is a classic implementation of the Snake and Apple Game, developed using Python for the backend logic and HTML, CSS and javascript for the frontend user interface. The game utilizes javascript for handling various functionalities and interactions.
 
 **Features:**
